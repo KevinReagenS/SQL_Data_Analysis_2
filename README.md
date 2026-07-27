@@ -8,10 +8,10 @@
 
 ### 1.
 
-**💻 Query**
+**💻 Query**: 
 
 **🖼️ Visualization**
-[Customer Segmentation](/images/1_Percentage_CustomerSegmentation_by_TotalLTV.png)
+![Customer Segmentation](/images/1_Percentage_CustomerSegmentation_by_TotalLTV.png)
 
 **🗝️ Key Findings**
 
