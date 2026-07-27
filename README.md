@@ -8,7 +8,7 @@
 
 ### 1.
 
-**💻 Query**: 
+**💻 Query**: [Query](/project_sql/1_customer_segmentation.sql)
 
 **🖼️ Visualization**
 ![Customer Segmentation](/images/1_Percentage_CustomerSegmentation_by_TotalLTV.png)
