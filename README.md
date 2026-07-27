@@ -1,8 +1,22 @@
 # SQL for Business Revenue Analysis
 
 ## 🔎 Overview
+This project aims to analyze a dataset which contains a lot of information regarding a particular store / franchise. The result will be utilized to answer several business questions on below sections.
+
+Download the database here [Contoso_100k](https://github.com/lukebarousse/Int_SQL_Data_Analytics_Course/releases/download/v.0.0.0/contoso_100k.sql)
+
+## 🛠️ Tools I Use
+1️⃣ PostgreSQL ➜ Core programming language to query the database and answer the questions <br>
+2️⃣ pgAdmin ➜ Act as PostgreSQL database <br>
+3️⃣ Visual Studio Code ➜ Writing the README.md and integration with GitHub <br>
+4️⃣ DBeaver ➜ Database admin tool which I mostly use to write the queries on <br>
+5️⃣ GitHub ➜ Project's version control and host <br>
+6️⃣ Microsoft Excel ➜ The raw data of the dataset is in .csv extension <br>
 
 ## 💼 Business Questions
+1️⃣ Who are the most valuable customers? <br>
+2️⃣ How does each customer group generate revenue each year? Recent purchase or long-lasting purchase <br>
+3️⃣ Who don't purchase recently? Why?
 
 ## 📊 Analysis Approach
 
