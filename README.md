@@ -38,8 +38,8 @@ width = 80%>
 
 **🗝️ Key Findings**
 - High-value segment (12372 customers ≈ 25% total customers) drives approximately 66% of the total revenue
-- Mid-value segment (24743 customers ≈ 50% total customers) generates approximately 32% of the total revenue
-- Low-value segment (12372 customers ≈ 25% total customers) drives approximately only 2% of the total revenue
+- Mid-value segment (24743 customers ≈ 50% total customers) generates approximately 32% of the total revenue and holds the highest headcount
+- Low-value segment (12372 customers ≈ 25% total customers) drives only 2% of the total revenue
 
 **💡 Business Insights**
 - High-Value Customers → **Revenue Engine** <br>
