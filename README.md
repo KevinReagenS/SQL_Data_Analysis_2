@@ -43,7 +43,7 @@ width = 80%>
 
 **💡 Business Insights**
 - High-Value Customers → **Revenue Engine** <br>
-➢ A single customer contribute almost $11,000 to the total revenue, losing one customer prove to be a huge loss. <br>
+➢ A single customer contribute almost $11,000 to the total revenue, losing one customer proves to be a huge loss. <br>
 ➢ Prioritize retention over acquisition. <br>
 ➢ Provide premium perks only available to this segment (early access to new products/features).<br>
 ➢ Gather information about what makes this customer segment spend this massive cost to absorb more of these customers type
@@ -53,7 +53,7 @@ width = 80%>
 ➢ Provide tiered achievement or tiered benefits (e.g. spend $100 more to unlock reward X). <br>
 
 - Low-Value Customers → **Minimum Contributor** <br>
-➢ Keep this segment engaged only by using automated ads or automated engagement. It is best not to spend too much manual effort or personal touch or resource into this segment
+➢ Keep this segment engaged only by using automated ads or automated engagement. It is best advised not to spend too much manual effort or personal touch or resource into this segment
 
 ### 2. 
 
