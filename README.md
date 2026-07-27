@@ -1,7 +1,7 @@
 # SQL for Business Revenue Analysis
 
 ## 🔎 Overview
-This project aims to analyze a dataset which contains a lot of information regarding a particular store / franchise. The result will be utilized to answer several business questions on below sections.
+Contoso is a fictional global electronics retailer with stores across multiple countries, thousands of customers, and a catalog of products sold in different currencies. This project digs into ~100K rows of transactional data to answer the questions which are specified in below section.
 
 Download the database here [Contoso_100k](https://github.com/lukebarousse/Int_SQL_Data_Analytics_Course/releases/download/v.0.0.0/contoso_100k.sql)
 
@@ -11,7 +11,6 @@ Download the database here [Contoso_100k](https://github.com/lukebarousse/Int_SQ
 3️⃣ Visual Studio Code ➜ Writing the README.md and integration with GitHub <br>
 4️⃣ DBeaver ➜ Database admin tool which I mostly use to write the queries on <br>
 5️⃣ GitHub ➜ Project's version control and host <br>
-6️⃣ Microsoft Excel ➜ The raw data of the dataset is in .csv extension <br>
 
 ## 💼 Business Questions
 1️⃣ Who are the most valuable customers? <br>
