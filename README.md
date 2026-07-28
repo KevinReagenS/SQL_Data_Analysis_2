@@ -12,7 +12,8 @@ Download the database here [Contoso_100k](https://github.com/lukebarousse/Int_SQ
 4️⃣ DBeaver ➜ Database admin tool which I mostly use to write the queries on <br>
 5️⃣ GitHub ➜ Project's version control and host <br>
 6️⃣ Python (Pandas) ➜ Create bar / chart / graph visualization <br>
-7️⃣ Google Colab ➜ Environment to run Python in
+7️⃣ Google Colab ➜ Environment to run Python in <br>
+8️⃣ Claude AI Chatbot ➜ Automation tool to put the values of the table into Pandas Dataframe
 
 ## 💼 Business Questions
 1️⃣ Who are the most valuable customers? <br>
