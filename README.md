@@ -72,11 +72,13 @@ width = 90%>
 width = 90%>
 
 **🗝️ Key Findings**
-- The trend between Total Customers vs Cohort Year & Total Revenue vs Cohort Year is the same but looking at Graph 1, there are problems worth looking into: <br>
-➢ On earlier cohort year, the graph of revenue is relatively higher to the count of customers than the recent years. This indicates that customers from earlier cohorts have spent more per person over their lifetime, of course because they have simply more time to spend on the market than the recently joined customers. <br>
-➢ Taking a closer look at 2021 and 2022: 2022 has 9010 customers and 2021 has 4663 customers (~93% more customers), yet as seen in Graph 2, the revenue per customer instead drops down. Since these two cohorts have similar tenure, this points to a real decline in customer value, suggesting that growth in customer acquisition came at the cost of customer quality.
+- On earlier cohort year, the graph of revenue is relatively higher to the count of customers than the recent years. This indicates that customers from earlier cohorts have spent more per person over their lifetime, of course because they have simply more time to spend on the market than the recently joined customers. <br>
+- Taking a closer look at 2021 and 2022: 2022 has 9010 customers and 2021 has 4663 customers (~93% more customers), yet as seen in Graph 2, the revenue per customer instead drops down. Since these two cohorts have similar tenure, this points to a real decline in customer value, suggesting that growth in customer acquisition came at the cost of customer quality.
 
 **💡 Business Insights**
+- If the company mission is to reach more revenue overall, it's better to shift some of the budgets from pure volume metric (customers headcount) to revenue metric or value-based metric.
+- Prioritize customer retention first rather than customer acquisition. It seems that earlier cohort customers have a higher average lifetime value than the recent cohorts.
+- Study what makes the average customer revenue drops down each year from 2019 (excluding 2020 and 2021 because of the pandemic)
 
 ### 3.
 
