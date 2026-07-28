@@ -60,11 +60,20 @@ Before answering the business question, I already created a ```VIEW``` which joi
 
 See the ```VIEW``` query here ➜ [VIEW - Cohort Analysis](/project_sql/VIEW_cohort_analysis.sql)
 
-**💻 Query**
+**💻 Query**: [2_cohort_analysis.sql](/project_sql/2_cohort_analysis.sql)
 
 **🖼️ Visualization**
 
+<img src="images/4_CohortYear_TotalCustomers_TotalRevenue.png"
+width = 90%>
+
+<img src="images/5_CohortYear_CustomerRevenue.png"
+width = 90%>
+
 **🗝️ Key Findings**
+- The trend between Total Customers vs Cohort Year & Total Revenue vs Cohort Year is the same but looking at Graph 1, there are problems worth looking into: <br>
+➢ On earlier cohort year, the graph of revenue is relatively higher to the count of customers than the recent years. This indicates that customers from earlier cohorts have spent more per person over their lifetime, of course because they have simply more time to spend on the market than the recently joined customers. <br>
+➢ Taking a closer look at 2021 and 2022: 2022 has 9010 customers and 2021 has 4663 customers (~93% more customers), yet as seen in Graph 2, the revenue per customer instead drops down. Since these two cohorts have similar tenure, this points to a real decline in customer value, suggesting that growth in customer acquisition came at the cost of customer quality.
 
 **💡 Business Insights**
 
