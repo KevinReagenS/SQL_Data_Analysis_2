@@ -56,7 +56,7 @@ width = 80%>
 ➢ Keep this segment engaged only by using automated ads or automated engagement. It is best advised not to spend too much manual effort or personal touch or resource into this segment
 
 ### 2. Cohort Analysis
-Before answering the business question, I already created a ```VIEW``` which joins two tables which are sales and customer and also displaying the cohort year (the first year specific customer joined or purchased things).
+Before answering the business question, I already created a ```VIEW``` which joins two tables which are sales and customer and also displays the cohort year (the first year specific customer joined or purchased things).
 
 See the ```VIEW``` query here ➜ [VIEW - Cohort Analysis](/project_sql/VIEW_cohort_analysis.sql)
 
