@@ -16,7 +16,7 @@ Download the database here [Contoso_100k](https://github.com/lukebarousse/Int_SQ
 
 ## 💼 Business Questions
 1️⃣ Who are the most valuable customers? <br>
-2️⃣ How does each customer group generate revenue each year? Recent purchase or long-lasting purchase <br>
+2️⃣ How does each customer group generate revenue each year? Recent purchase or long-lasting purchase? <br>
 3️⃣ Who don't purchase recently? Why?
 
 ## 📊 Analysis Approach
@@ -55,7 +55,10 @@ width = 80%>
 - Low-Value Customers → **Minimum Contributor** <br>
 ➢ Keep this segment engaged only by using automated ads or automated engagement. It is best advised not to spend too much manual effort or personal touch or resource into this segment
 
-### 2. 
+### 2. Cohort Analysis
+Before answering the business question, I already created a ```VIEW``` which joins two tables which are sales and customer and also displaying the cohort year (the first year specific customer joined or purchased things).
+
+See the ```VIEW``` query here ➜ [VIEW - Cohort Analysis](/project_sql/VIEW_cohort_analysis.sql)
 
 **💻 Query**
 
