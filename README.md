@@ -1,7 +1,7 @@
 # SQL for Business Revenue Analysis
 
 ## 🔎 Overview
-Contoso is a fictional global electronics retailer with stores across multiple countries, thousands of customers, and a catalog of products sold in different currencies. This project digs into ~100K rows of transactional data to answer the questions which are specified in below section.
+Contoso is a fictional e-commerce global electronics retailer with stores across multiple countries, thousands of customers, and a catalog of products sold in different currencies. This project digs into ~100K rows of transactional data to answer the questions which are specified in below section.
 
 Download the database here [Contoso_100k](https://github.com/lukebarousse/Int_SQL_Data_Analytics_Course/releases/download/v.0.0.0/contoso_100k.sql)
 
@@ -83,7 +83,20 @@ width = 90%>
 ### 3. Customer Status (Active or Churned)
 ℹ️ **Definition** <br>
 
-Here, I split the customer status into 2 parts: active vs churned. This is a common term used in the industry. I define churned customers as the one who have not purchased anything for the last 6 months.
+Here, I split the customer status into 2 parts: active vs churned. This is a common term used in the industry. I define churned customers as the one who have not purchased anything for the last 6 months. Why 6 months? I estimate only the rough calculation based on the product category (see the table below)
+
+|            Category           |
+| ----------------------------- |
+|   Audio                       |
+|   Cellphones                  |
+|   TV and Video                |
+|   Cameras & Camcorders        |
+|   Home Appliances             |
+|   Games and Toys              |
+|   Music, Movies, Audio Books  |
+|   Computers                   |
+
+It seems probable to say that customers who don't purchase the products above from Contoso again after their last purchase have moved on to another e-commerce retail.
 
 **💻 Query**: [3_customers_status.sql](/project_sql/3_customers_status.sql)
 
@@ -96,5 +109,7 @@ width = 60%>
 width = 100%>
 
 **🗝️ Key Findings**
+- Churn rate is unexpectedly stable across cohorts (89.6% – 91.6%), regardless of customer counts or age. Whether the small 2015 cohort (2,825 customers) or the massive 2022 cohort (9,010 customers), roughly 9 in 10 customers end up "Churned" under this 6-month-inactivity definition
+- The stable churn vs active ratio seems to indicate that there is indeed a problem with the definition of churn period, therefore another churn period test must be conducted.
 
 **💡 Business Insights**
