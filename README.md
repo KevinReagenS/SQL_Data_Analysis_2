@@ -76,15 +76,21 @@ width = 90%>
 - Taking a closer look at 2021 and 2022: 2022 has 9010 customers and 2021 has 4663 customers (~93% more customers), yet as seen in Graph 2, the revenue per customer instead drops down. Since these two cohorts have similar tenure, this points to a real decline in customer value, suggesting that growth in customer acquisition came at the cost of customer quality.
 
 **💡 Business Insights**
-- If the company mission is to reach more revenue overall, it's better to shift some of the budgets from pure volume metric (customers headcount) to revenue metric or value-based metric.
+- If the company mission is to reach more r evenue overall, it's better to shift some of the budgets from pure volume metric (customers headcount) to revenue metric or value-based metric.
 - Prioritize customer retention first rather than customer acquisition. It seems that earlier cohort customers have a higher average lifetime value than the recent cohorts.
 - Study what makes the average customer revenue drops down each year from 2019 (excluding 2020 and 2021 because of the pandemic)
 
-### 3.
+### 3. Customer Status (Active or Churned)
+ℹ️ **Definition** <br>
 
-**💻 Query**
+Here, I split the customer status into 2 parts: active vs churned. This is a common term used in the industry. I define churned customers as the one who have not purchased anything for the last 6 months.
+
+**💻 Query**: [3_customers_status.sql](/project_sql/3_customers_status.sql)
 
 **🖼️ Visualization**
+
+<img src="images/6_CustomerStatus.png"
+width = 60%>
 
 **🗝️ Key Findings**
 
