@@ -18,7 +18,7 @@ Download the database here [Contoso_100k](https://github.com/lukebarousse/Int_SQ
 ## 💼 Business Questions
 1️⃣ Who are the most valuable customers? <br>
 2️⃣ How does each customer group generate revenue each year? Recent purchase or long-lasting purchase? <br>
-3️⃣ Who don't purchase recently? Why?
+3️⃣ Who don't purchase recently?
 
 ## 📊 Analysis Approach
 
