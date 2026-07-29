@@ -92,6 +92,9 @@ Here, I split the customer status into 2 parts: active vs churned. This is a com
 <img src="images/6_CustomerStatus.png"
 width = 60%>
 
+<img src="images/7_CustomerStatus_CohortYear.png"
+width = 100%>
+
 **🗝️ Key Findings**
 
 **💡 Business Insights**
