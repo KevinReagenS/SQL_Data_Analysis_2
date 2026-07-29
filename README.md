@@ -127,3 +127,7 @@ width = 100%>
 
 <img src="images/8_MostPopularProducts.png"
 width = 100%>
+
+## 🕸️ References
+▶️ Youtube: [Luke Barousse](https://www.youtube.com/@LukeBarousse) <br>
+🌐 [Upcounting: Ideal Churn Rate](https://www.upcounting.com/blog/average-churn-rate-ecommerce)
