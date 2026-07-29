@@ -118,3 +118,12 @@ width = 100%>
 > 🚨 Need to further calibrate the churn period
 
 - Try providing seasonal huge discounts or offers (every 2-3 months) to re-engage the churned customers
+
+### Bonus
+
+**💻 Query**: [bonus_most_popular_products.sql](/project_sql/bonus_most_popular_products.sql)
+
+**🖼️ Visualization**
+
+<img src="images/8_MostPopularProducts.png"
+width = 100%>
