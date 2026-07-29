@@ -113,3 +113,8 @@ width = 100%>
 - The stable churn vs active ratio seems to indicate that there is indeed a problem with the definition of churn period, therefore another churn period test must be conducted.
 
 **💡 Business Insights**
+- Since ~90% churn shows up identically across every cohort regardless of size or age, It's more likely that Contoso has a naturally long gap between purchases (people don't rebuy electronic products in 6 months), and the current churn period definition mislabels normal customers as churned.
+
+> 🚨 Need to further calibrate the churn period
+
+- Try providing seasonal huge discounts or offers (every 2-3 months) to re-engage the churned customers
